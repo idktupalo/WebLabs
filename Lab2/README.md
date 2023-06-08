@@ -1,4 +1,4 @@
-Байдаус Михайло Віталійович, КВ-22МП.
+Тупало Костянтин Сергійович, КВ-22МП.
 
 Предмет:  Технологія розробки  Web-додатків.
 
@@ -10,4 +10,5 @@
 
 Інструменти розробки: Python 3, Django, Django Channels, redis, Pycharm Community Edition
 
-Docs: https://docs.google.com/document/d/1EOXJOgP9QEQRbOOK5kyRBg4aGV-IogOREr5GtpxQj3Q/edit?usp=sharing
+Docs:[ https://docs.google.com/document/d/1EOXJOgP9QEQRbOOK5kyRBg4aGV-IogOREr5GtpxQj3Q/edit?usp=sharing
+](https://docs.google.com/document/d/1J8PYc352y0_1csu1H7YEZ4hEO70cSsaPUs1ByhCJMug/edit?usp=sharing)
